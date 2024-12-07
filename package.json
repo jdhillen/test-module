@@ -1,12 +1,12 @@
 {
-  "name": "@jdhillen/test-module",
+  "name": "test-module",
   "version": "0.0.0",
   "description": "A Test Module",
   "type": "module",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jdhillen/test-module.git"
+    "url": "git+https://github.com/jdhillen/test-module.git"
   },
   "scripts": {
     "test": "echo \"No tests specified\""
@@ -15,6 +15,9 @@
     "node": ">=20.0.0"
   },
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
