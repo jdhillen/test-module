@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/jdhillen/test-module/compare/v1.1.1...v1.1.2) (2024-12-07)
+
+
+### Bug Fixes
+
+* renamed module ([31274af](https://github.com/jdhillen/test-module/commit/31274af56e6c160e0f7f096ee4de8a4802033100))
+
 ## [1.1.1](https://github.com/jdhillen/test-module/compare/v1.1.0...v1.1.1) (2024-12-07)
 
 
