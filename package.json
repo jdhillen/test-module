@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "name": "test-module",
   "version": "0.0.0",
+=======
+  "name": "@jdhillen/test-module",
+  "version": "1.0.0",
+>>>>>>> a9501389813ccbb1ee74df18266ba27a8d91272f
   "description": "A Test Module",
   "type": "module",
   "main": "index.js",
