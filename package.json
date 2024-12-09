@@ -2,19 +2,24 @@
   "name": "@jdhillen/test-module",
   "version": "1.1.2",
   "description": "A Test Module",
+  "license": "MIT",
   "type": "module",
   "main": "index.js",
+  "author": {
+    "name": "J.D. Hillen",
+    "email": "jhillen01@gmail.com",
+    "url": "https://links.jdhillen.com"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jdhillen/test-module.git"
   },
-  "scripts": {
-    "test": "echo \"No tests specified\""
-  },
   "engines": {
     "node": ">=20.0.0"
   },
-  "license": "MIT",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
   "publishConfig": {
     "access": "public"
   },
