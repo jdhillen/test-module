@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/jdhillen/test-module/compare/v1.1.2...v1.1.3) (2024-12-09)
+
+
+### Bug Fixes
+
+* Adding new standardized files ([930da0e](https://github.com/jdhillen/test-module/commit/930da0ec04a7243850f475499ffb3bb3214e944e))
+
 ## [1.1.2](https://github.com/jdhillen/test-module/compare/v1.1.1...v1.1.2) (2024-12-07)
 
 
